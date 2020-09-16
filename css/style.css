@@ -40,7 +40,7 @@ section{padding-top: 100px}
 .rmborder {border: none;}
 .caption h4, .caption  P{font-weight: bold}
 .thumbnail > img {height: 300px;}
-.slidein_anim {visibility:visible;}
+.slidein_anim {visibility:hidden;}
 .slidein{animation-name:slidein;-webkit-animation-name:slidein;animation-duration:1s;-webkit-animation-duration:1s;visibility:visible}
 @keyframes slidein{0%{opacity:0;transform:translateY(70%)}100%{opacity:1;transform:translateY(0)}}
 @-webkit-keyframes slidein{0%{opacity:0;-webkit-transform:translateY(70%)}100%{opacity:1;-webkit-transform:translateY(0)}}
